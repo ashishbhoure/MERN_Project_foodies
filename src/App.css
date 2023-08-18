@@ -1,0 +1,30 @@
+#carousel {
+  max-height: 500px;
+}
+#carousel .carousel-item {
+  filter: brightness(-1);
+}
+#carousel .carousel-item img {
+  width: 100%;
+  object-fit: fill;
+}
+
+#carousel .search-bar {
+  box-shadow: 0px 0px 10px #17a2b8;
+}
+
+.card-box:hover {
+  box-shadow: 0px 0px 5px #17a2b8;
+}
+
+.card-box {
+  overflow: hidden;
+}
+.card-box button:hover {
+  background-color: #17a2b8 !important;
+  color: white !important;
+}
+.card-box:hover img {
+  transition: 0.5s ease-in-out;
+  transform: scale(1.05);
+}

@@ -1,0 +1,289 @@
+[
+  {
+    "CategoryName": "Pizza",
+    "name": "Veg Pizza",
+    "price": "59",
+    "img": "https://images.unsplash.com/photo-1506354666786-959d6d497f1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmVnJTIwcGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "description": "A delicious and flavorful pizza topped with an assortment of fresh and vibrant vegetables."
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Veg Cheese Pizza",
+    "price": "79",
+    "img": "https://media.istockphoto.com/id/1478257477/photo/veg-cheese-pizza.webp?b=1&s=170667a&w=0&k=20&c=10aN98i_tpHQVSLH2lmkvEmtawBJC8gD3PBCRONkLZA=",
+    "description": "A delectable combination of gooey melted cheese and assorted fresh vegetables atop a crispy pizza crust."
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Nachos Pizza",
+    "price": "59",
+    "img": "https://media.istockphoto.com/id/183433064/photo/taco-pizza.webp?b=1&s=170667a&w=0&k=20&c=7-NyN6XzdJBEeewvaQ0bf8Ekj3kUgO1CGTTg0CvCFbE=",
+    "description": "A fusion of crunchy nacho chips and savory pizza flavors, creating a unique and satisfying culinary experience."
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Cream Onion Pizza",
+    "price": "79",
+    "img": "https://images.unsplash.com/photo-1621964197881-85b7e2ada98a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JlYW0lMjBvbmlvbiUyMHBpenphfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "description": "A delectable pizza adorned with creamy richness and the sweet tanginess of caramelized onions."
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Tomato Pizza",
+    "price": "79",
+    "img": "https://media.istockphoto.com/id/181175167/photo/pizza.webp?b=1&s=170667a&w=0&k=20&c=20MLPBYxkLIOGtdC8w5nLRsJAl-96gqq6MWKj5cb9uY=",
+    "description": "A classic pizza featuring the bold and vibrant taste of ripe tomatoes combined with delightful toppings."
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Schezwan Pizza",
+    "price": "99",
+    "img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2NoZXp3YW4lMjBwaXp6YXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "description": "An enticing fusion of spicy Schezwan flavors and the savory delight of pizza, creating a tantalizing culinary fusion."
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Meggie Pizza",
+    "price": "79",
+    "img": "https://media.istockphoto.com/id/842082336/photo/homemade-veggie-pizza-with-mushrooms-peppers.webp?b=1&s=170667a&w=0&k=20&c=yxVCynphFn1pnJqXrzUKYX0Q55JhI0KqVe7EZ-_mrtM=",
+    "description": "A creative twist on pizza, combining the beloved taste of Maggi noodles with cheesy goodness on a crust."
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Cheese Corn Pizza",
+    "price": "99",
+    "img": "https://media.istockphoto.com/id/1419031906/photo/pizza-closeup.webp?b=1&s=170667a&w=0&k=20&c=VG32jeVDzN5FsXcXSo7daKJqGRm8ifGOePiE1MZzTWk=",
+    "description": "A scrumptious pizza adorned with a harmonious blend of creamy cheese and golden kernels of corn."
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Cheese Paneer Pizza",
+    "price": "129",
+    "img": "...",
+    "description": "A delectable fusion of smooth paneer and gooey cheese atop a delectable pizza crust."
+  },
+  {
+    "CategoryName": "Pizza",
+    "name": "Paneer Tikka Pizza",
+    "price": "149",
+    "img": "https://images.unsplash.com/photo-1573821663912-569905455b1c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGFubmVyJTIwY2hlZXNlJTIwcGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "description": "A flavorful medley of aromatic paneer tikka and savory pizza, offering a delightful culinary experience."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Veg Sandwich",
+    "price": "39",
+    "img": "https://media.istockphoto.com/id/1331643410/photo/veg-grilled-sandwich-with-french-fries-sauce-and-chilli-flakes-morning-breakfast-of-hot.webp?b=1&s=170667a&w=0&k=20&c=NEqNCrIbgDX6zkqAvgpxsvuZ7BpAfJjr8dv-SAqWrno=",
+    "description": "A delectable combination of fresh vegetables tucked between slices of bread, creating a delightful and nutritious sandwich."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Nutella Sandwich",
+    "price": "49",
+    "img": "https://images.unsplash.com/photo-1481070414801-51fd732d7184?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bnV0dGxhJTIwc2FuZHdpY2h8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "description": "A delectable treat featuring creamy Nutella spread between slices of bread, delivering a sweet and satisfying sandwich."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Veg Cheese Sandwich",
+    "price": "49",
+    "img": "https://media.istockphoto.com/id/1202884333/photo/veg-cheese-sandwich-with-baked-white-bread-garnished-with-oregano-and-chili-flakes-gives.webp?b=1&s=170667a&w=0&k=20&c=ia_7v4KeXBhuNR-kcL5XNJi-_-ejfwYt2t1hvVB92HE=",
+    "description": "A scrumptious blend of melted cheese and crisp vegetables nestled between slices of bread, crafting a mouthwatering veg cheese sandwich."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Masala Sandwich",
+    "price": "49",
+    "img": "https://media.istockphoto.com/id/1085141418/photo/paneer-tikka-sandwich-is-a-popular-indian-version-of-sandwich-using-cottage-cheese-curry-with.webp?b=1&s=170667a&w=0&k=20&c=ykEapyZrWhIYePQHmt_kBmMsukCW-EChFu1nsNXvNzw=",
+    "description": "A flavorful delight, packed with aromatic spices and vegetables, transforming into a delectable masala sandwich."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Corn Sandwich",
+    "price": "49",
+    "img": "https://media.istockphoto.com/id/1219616011/photo/cheese-corn-spinach-toast.webp?b=1&s=170667a&w=0&k=20&c=gu4YPnML6938xnmueJk1Y6n5-q91XjjutmZ8Mj7xwxY=",
+    "description": "A delectable creation featuring golden kernels of corn nestled between slices of bread, forming a delightful corn sandwich."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Schezwan Sandwich",
+    "price": "49",
+    "img": "https://media.istockphoto.com/id/1362101397/photo/moong-dal-sandwich.webp?b=1&s=170667a&w=0&k=20&c=B-bQOiWl3o5kMCUxJVliztoXeTl16srP8y0BRyGBfHk=",
+    "description": "A zesty fusion of Szechuan flavors and delightful ingredients, resulting in a tantalizing Schezwan sandwich."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Bruschetta Sandwich",
+    "price": "49",
+    "img": "https://media.istockphoto.com/id/472054537/photo/bruschetta-with-mozzarella-pesto-and-arigula.webp?b=1&s=170667a&w=0&k=20&c=RGOz-jBMUtAHJ24InW-xwwsk7jYP9fz3krIMWe3yNt0=",
+    "description": "A delicious medley of fresh tomatoes, basil, and seasonings atop toasted bread, crafting a delightful bruschetta sandwich."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Masala Cheese Sandwich",
+    "price": "69",
+    "img": "https://media.istockphoto.com/id/1084808528/photo/paneer-sandwich-using-indian-cottage-cheese-and-vegetables-and-chutney.webp?b=1&s=170667a&w=0&k=20&c=-sAVrZO365C4FgoJukiZrBa1QNh9zJo3afIvVoLz4nc=",
+    "description": "A flavorful blend of aromatic masala and melted cheese between slices of bread, creating a scrumptious masala cheese sandwich."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Pizza Sandwich",
+    "price": "79",
+    "img": "https://media.istockphoto.com/id/519766631/photo/club-sandwich-8.webp?b=1&s=170667a&w=0&k=20&c=rmCDMD0ajlt7Q_RTjLH0XQCOl_p7hkYr6HMXNCffpjM=",
+    "description": "A delightful combination of pizza toppings sandwiched between layers of bread, forming a mouthwatering pizza sandwich."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Corn Cheese Sandwich",
+    "price": "79",
+    "img": "https://media.istockphoto.com/id/1386250711/photo/small-pizza.webp?b=1&s=170667a&w=0&k=20&c=cUYNOCir3Z1rAFcxBj8bywvxyiMHZo7TeKATkP6D-C8=",
+    "description": "A delectable harmony of creamy cheese and golden corn kernels nestled within slices of bread, crafting a savory corn cheese sandwich."
+  },
+  {
+    "CategoryName": "Sandwich",
+    "name": "Paneer Cheese Sandwich",
+    "price": "89",
+    "img": "https://media.istockphoto.com/id/1085140830/photo/paneer-tikka-sandwich-is-a-popular-indian-version-of-sandwich-using-cottage-cheese-curry-with.webp?b=1&s=170667a&w=0&k=20&c=teEWtGv0vnM2kOtGJc5U4XMdePX_UggotyR6pTeq4QM=",
+    "description": "A delectable fusion of velvety paneer and gooey cheese, perfectly embraced by slices of bread in a paneer cheese sandwich."
+  },
+  {
+    "CategoryName": "Maggie",
+    "name": "Plain Maggie",
+    "price": "29",
+    "img": "https://media.istockphoto.com/id/1177460739/photo/noodles-served-in-a-plate-and-is-ready-to-eat.webp?b=1&s=170667a&w=0&k=20&c=hyDH49vvRsf5R1k9NbbPS6a5NMESJQiYz-NrHaGGeaQ=",
+    "description": "A comforting bowl of classic instant noodles, simplicity at its finest, known as plain Maggi."
+  },
+  {
+    "CategoryName": "Maggie",
+    "name": "Masala Maggie",
+    "price": "39",
+    "img": "https://media.istockphoto.com/id/1292637211/photo/maggie-noodles-instant-noodles-served-in-a-bowl-over-a-rustic-wooden-background-selective.webp?b=1&s=170667a&w=0&k=20&c=XKM5YD3BQA3HVsm3-X9YfbuD4J0GPAFT1FvF8t_q83E=",
+    "description": "A flavorful bowl of instant noodles infused with aromatic spices, transforming into masala Maggi."
+  },
+  {
+    "CategoryName": "Maggie",
+    "name": "Veg Maggie",
+    "price": "49",
+    "img": "https://media.istockphoto.com/id/1292638232/photo/mixed-veg-masala-maggie-noodles-instant-noodles-cooked-with-veggies-and-then-served-in-a-bowl.webp?b=1&s=170667a&w=0&k=20&c=io94OAT51iQuas5SRc9SUDMwsAhl6BD18tp0bjDqMYI=",
+    "description": "A savory bowl of instant noodles enhanced with an assortment of colorful vegetables, creating a delightful veg Maggi."
+  },
+  {
+    "CategoryName": "Maggie",
+    "name": "Veg Butter Masala Maggie",
+    "price": "59",
+    "img": "https://media.istockphoto.com/id/1292638146/photo/mixed-veg-maggie-noodles-instant-noodles-cooked-with-veggies-and-then-served-in-a-bowl-over-a.webp?b=1&s=170667a&w=0&k=20&c=AmK1R6qxE3VFgre07auxozCmTBThkH0kgC8gEIZItdk=",
+    "description": "A delectable blend of buttery richness and savory vegetables, elevating the taste of classic instant noodles in veg butter Maggi."
+  },
+  {
+    "CategoryName": "Maggie",
+    "name": "Veg Corn Maggie",
+    "price": "59",
+    "img": "https://media.istockphoto.com/id/1404700647/photo/corn-maggie-noodles-instant-noodle-served-in-blue-bowl-on-wooden-background-selective-focus.webp?b=1&s=170667a&w=0&k=20&c=f3bXz5pC8f4yU4BdKMGAZFQWjXuwVth1iE5GsXeyk-c=",
+    "description": "A delightful combination of tender corn kernels and assorted vegetables infused into classic instant noodles, presenting veg corn Maggi."
+  },
+  {
+    "CategoryName": "Maggie",
+    "name": "Masala Cheese Maggie",
+    "price": "69",
+    "img": "https://media.istockphoto.com/id/1293576387/photo/picture-of-famous-maggie-noodles-it-looks-delicious-and-spicy.webp?b=1&s=170667a&w=0&k=20&c=Xtb0rHpK5hles-s8atX5RFsoenUK9wvoGwFpbdrYn7U=",
+    "description": "A savory symphony of aromatic spices and melted cheese enveloping the beloved instant noodles, creating masala cheese Maggi."
+  },
+  {
+    "CategoryName": "Maggie",
+    "name": "Cheese Corn Maggie",
+    "price": "79",
+    "img": "https://media.istockphoto.com/id/1292637775/photo/peri-peri-masala-maggie-noodles-instant-noodles-mixed-with-peri-peri-masala-served-in-a-bowl.webp?b=1&s=170667a&w=0&k=20&c=8tQ7hgyr6Kud6v_rY-j_7TeL4VtP1GOx32Zrqp4ur7c=",
+    "description": "A delectable fusion of creamy cheese and golden corn kernels enhancing the beloved instant noodles, giving rise to cheese corn Maggi."
+  },
+  {
+    "CategoryName": "Maggie",
+    "name": "Paneer Cheese Maggie",
+    "price": "89",
+    "img": "https://media.istockphoto.com/id/1214915770/photo/paneer-maggie-noodles.webp?b=1&s=170667a&w=0&k=20&c=iGQWNCwSA_utBSYptA3zubSDVvT4M_9c165rqI5oD8Y=",
+    "description": "A delectable harmony of velvety paneer and gooey cheese elevating the beloved instant noodles, resulting in paneer cheese Maggi."
+  },
+  {
+    "CategoryName": "Rice",
+    "name": "Lemon Rice",
+    "price": "39",
+    "img": "https://media.istockphoto.com/id/504339251/photo/vege-rice.webp?b=1&s=170667a&w=0&k=20&c=PVx4NXJUXwzeG6FhQl4rGN6fHY6TrIDDO8GRL6P7N_o=",
+    "description": "A zesty and tangy South Indian dish made by mixing cooked rice with lemon juice and spices, known as lemon rice."
+  },
+  {
+    "CategoryName": "Rice",
+    "name": "Fried Rice",
+    "price": "59",
+    "img": "https://media.istockphoto.com/id/1292617507/photo/tasty-veg-schezwan-fried-rice-served-in-bowl-over-a-rustic-wooden-background-indian-cuisine.webp?b=1&s=170667a&w=0&k=20&c=ohkjvWpJyW0rIBaqrTkxzTb3gERm0rsqqMUGzZcBSoU=",
+    "description": "A flavorful Asian dish created by stir-frying cooked rice with assorted vegetables, proteins, and seasonings, resulting in fried rice."
+  },
+  {
+    "CategoryName": "Rice",
+    "name": "Schezwan Rice",
+    "price": "59",
+    "img": "https://media.istockphoto.com/id/1459250923/photo/indian-cuisine-vegetarian-fried-rice-or-pulav.webp?b=1&s=170667a&w=0&k=20&c=rlf2j-u4f-yAAIiXe7mOtreFLLOKE5UrQe7YRwMIBgY=",
+    "description": "A spicy and flavorful Chinese-inspired rice dish infused with Szechuan sauce and ingredients, known as Schezwan rice."
+  },
+  {
+    "CategoryName": "Rice",
+    "name": "Green Peas Rice",
+    "price": "69",
+    "img": "https://media.istockphoto.com/id/980079724/photo/indian-vegetable-pulav-or-biryani-made-using-basmati-rice-served-in-a-ceramic-bowl-selective.webp?b=1&s=170667a&w=0&k=20&c=0otWV9vjZMyUwasO11uJMzYh2tevQuNI4iTvmrVCWEU=",
+    "description": "A wholesome and aromatic dish prepared by combining cooked rice with tender green peas, creating green peas rice."
+  },
+  {
+    "CategoryName": "Rice",
+    "name": "Veg Biryani",
+    "price": "79",
+    "img": "https://media.istockphoto.com/id/1219691619/photo/indian-rice-dish-or-veg-biryani-veg-pulav-indian-vegetable-pulao.webp?b=1&s=170667a&w=0&k=20&c=nWB49o5ehatrjjtB76OuZO9QY52y8wB2calqMjLR9YY=",
+    "description": "A fragrant and flavorful Indian rice dish cooked with a medley of vegetables and aromatic spices, presenting veg biryani."
+  },
+  {
+    "CategoryName": "Rice",
+    "name": "Paneer Fried Rice",
+    "price": "89",
+    "img": "https://media.istockphoto.com/id/1501037633/photo/closeup-of-veg-biryani-and-raita-on-table.webp?b=1&s=170667a&w=0&k=20&c=BtNo0k_oBnIyAhiaDQIgQZAjR-4krdZdrWslzIRmCno=",
+    "description": "A delightful fusion of tender paneer cubes and flavorful rice, stir-fried with vegetables and seasonings, resulting in paneer fried rice."
+  },
+  {
+    "CategoryName": "Noodles",
+    "name": "Noodles",
+    "price": "59",
+    "img": "https://media.istockphoto.com/id/1292637257/photo/veg-hakka-noodles-a-popular-oriental-dish-made-with-noodles-and-vegetables-served-over-a.webp?b=1&s=170667a&w=0&k=20&c=ZC5kUWJgdNv5Y2f_ZFekrfu5mejqhlbqXuep-HbXUZ4=",
+    "description": "Long, thin strands of dough made from wheat or rice flour, often cooked and served in various savory dishes, known as noodles."
+  },
+  {
+    "CategoryName": "Noodles",
+    "name": "Schezwan Noodles",
+    "price": "69",
+    "img": "https://media.istockphoto.com/id/1144505561/photo/chicken-hakka-schezwan-noodles-served-in-a-bowl-with-chopsticks-selective-focus.webp?b=1&s=170667a&w=0&k=20&c=wem9gK6yfCXcntmUVvecvY4UaXdF-OPiYIeE4BknztI=",
+    "description": "A spicy and savory Chinese-inspired dish featuring noodles tossed with Szechuan sauce and ingredients, creating Schezwan noodles."
+  },
+  {
+    "CategoryName": "Noodles",
+    "name": "Veg Loaded Noodles",
+    "price": "69",
+    "img": "https://media.istockphoto.com/id/1292637103/photo/veg-hakka-noodles-a-popular-oriental-dish-made-with-noodles-and-vegetables-served-over-a.webp?b=1&s=170667a&w=0&k=20&c=0vylE98DVr6YhqpFbFrNUUw235Ngk2eJ6gcX5ZGSghQ=",
+    "description": "Noodles generously packed with an assortment of flavorful vegetables, resulting in a satisfying and veg-loaded dish."
+  },
+  {
+    "CategoryName": "Noodles",
+    "name": "White Cream Noodles",
+    "price": "79",
+    "img": "https://media.istockphoto.com/id/1218814093/photo/fettuccine-with-a-garlic-butter-sauce.webp?b=1&s=170667a&w=0&k=20&c=kESr1l-To7RZGneECFrbrnU8YxDMdnkNiiyitqlXftc=",
+    "description": "Noodles coated in a rich and creamy white sauce, creating a delectable dish known as white cream noodles."
+  },
+  {
+    "CategoryName": "Noodles",
+    "name": "Hakka Noodles",
+    "price": "89",
+    "img": "https://media.istockphoto.com/id/1158159302/photo/schezwan-hakka-noodles-served-in-a-bowl-top-view.webp?b=1&s=170667a&w=0&k=20&c=cADTbt5sPTQEV45Mus0aygWq7-jnQKcNglyktDUri5M=",
+    "description": "A delicious Chinese stir-fried noodle dish, originating from the Hakka region, known as hakka noodles."
+  },
+  {
+    "CategoryName": "Noodles",
+    "name": "Angar Noodles",
+    "price": "99",
+    "img": "https://media.istockphoto.com/id/1482329578/photo/tasty-and-spicy-noodles-with-veggies.webp?b=1&s=170667a&w=0&k=20&c=AKK7CeSIzy5GfleF-EKF7nyG2CqEbJqkbCtkgHZEoxo=",
+    "description": "A fiery and spicy version of noodles, named 'angar noodles,' infused with bold flavors and heat."
+  }
+]
