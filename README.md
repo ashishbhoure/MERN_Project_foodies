@@ -1,12 +1,12 @@
 for start server
 
-        >> cd food-app/backend
+        >> cd /backend
         >> npm install
         >> nodemon index.js
 
 for starting frontend
         
-        >> cd food-app
+        >> cd..
         >> npm install
         >> npm start
 
